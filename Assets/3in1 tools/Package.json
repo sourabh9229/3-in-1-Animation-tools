@@ -1,0 +1,12 @@
+{
+    "name": "com.svcompany.animationcrafter",
+    "version": "1.0.0",
+    "displayName": "AnimationCrafter",
+    "description": "A plugin for to speed up and refine Animation process for Unity",
+    "unity": "2021.1",
+    "dependencies": {},
+    "author": {
+        "name": "Sourabh vishwakarma",
+        "email": "sv92295351@gmail.com"
+    }
+}
